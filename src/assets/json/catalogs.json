@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Art",
+    "image": "1.png",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+    "items": [
+      {
+        "name": "Art Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/art/1.png",
+          "/images/art/2.png",
+          "/images/art/3.png",
+          "/images/art/4.png",
+          "/images/art/1.png",
+          "/images/art/2.png",
+          "/images/art/3.png",
+          "/images/art/4.png"
+        ],
+        "details" : {
+          "item": "Lorem lpsum",
+          "upfront": "10000",
+          "percentage": "10",
+          "ownership_type": "Lorem lpsum",
+          "syndicate_manager": "Manager Name"
+        },        
+        "specific_details": "<h6>Lorem lpsum</h6><p>Phasellus faucibus elit ut sollicitudin hendrerit</p><p>In et magna eget nulla interdum interdum eget ut eros</p><p>Proin convallis facilisis nisi sed blandit</p><p>Morbi tempus magna ac odio efficitur, ut posuere lectus egesta</p><p>Nulla et neque id eros mattis ultricies</p>",
+        "syndicate_prospectus": "<p>Aliquam ac lectus id felis gravida tincidunt sit amet non turpis. Morbi fermentum convallis nunc, in facilisis odio ultrices ut. In id ex sodales, pellentesque ex porttitor, hendrerit nulla. Etiam gravida eget metus quis vairius. Phasellus pellentesque quis augue tempus hendrerit. Curabitur rutrum imperdiet tincidunt. Ut ut sagittis metus. Phasellus faucibus elit ut sollicitudin hendrerit. In et magna eget nulla interdum interdum eget ut eros. Proin convallis facilisis nisi sed blandit. Morbi tempus magna ac odio efficitur, ut posuere lectus egestas. Nulla et neque id eros mattis ultricies.</p>",
+        "additional_details": "<h6>Club</h6><p>Aliquam ac lectus id felis gravida tincidunt sit amet non turpis. Morbi fermentum convallis nunc, in facilisis odio ultrices ut. In id ex sodales, pellentesque ex porttitor, hendrerit nulla. Etiam gravida eget metus quis vairius. Phasellus pellentesque quis augue tempus hendrerit. Curabitur rutrum imperdiet tincidunt. Ut ut sagittis metus. Phasellus faucibus elit ut sollicitudin hendrerit. In et magna eget nulla interdum interdum eget ut eros. Proin convallis facilisis nisi sed blandit. Morbi tempus magna ac odio efficitur, ut posuere lectus egestas. Nulla et neque id eros mattis ultricies.</p><h6>Racehorse Specifics</h6><p>Aliquam ac lectus id felis gravida tincidunt sit amet non turpis. Morbi fermentum convallis nunc, in facilisis odio ultrices ut. In id ex sodales, pellentesque ex porttitor, hendrerit nulla. Etiam gravida eget metus quis vairius. Phasellus pellentesque quis augue tempus hendrerit. Curabitur rutrum imperdiet tincidunt. Ut ut sagittis metus. Phasellus faucibus elit ut sollicitudin hendrerit. In et magna eget nulla interdum interdum eget ut eros. Proin convallis facilisis nisi sed blandit. Morbi tempus magna ac odio efficitur, ut posuere lectus egestas. Nulla et neque id eros mattis ultricies.</p><h6>Syndicate Details</h6><p>Aliquam ac lectus id felis gravida tincidunt sit amet non turpis. Morbi fermentum convallis nunc, in facilisis odio ultrices ut. In id ex sodales, pellentesque ex porttitor, hendrerit nulla. Etiam gravida eget metus quis vairius. Phasellus pellentesque quis augue tempus hendrerit. Curabitur rutrum imperdiet tincidunt. Ut ut sagittis metus. Phasellus faucibus elit ut sollicitudin hendrerit. In et magna eget nulla interdum interdum eget ut eros. Proin convallis facilisis nisi sed blandit. Morbi tempus magna ac odio efficitur, ut posuere lectus egestas. Nulla et neque id eros mattis ultricies.</p>",
+        "manager_background": "<p>Aliquam ac lectus id felis gravida tincidunt sit amet non turpis. Morbi fermentum convallis nunc, in facilisis odio ultrices ut. In id ex sodales, pellentesque ex porttitor, hendrerit nulla. Etiam gravida eget metus quis vairius. Phasellus pellentesque quis augue tempus hendrerit. Curabitur rutrum imperdiet tincidunt. Ut ut sagittis metus. Phasellus faucibus elit ut sollicitudin hendrerit. In et magna eget nulla interdum interdum eget ut eros. Proin convallis facilisis nisi sed blandit. Morbi tempus magna ac odio efficitur, ut posuere lectus egestas. Nulla et neque id eros mattis ultricies.</p><p>Aliquam ac lectus id felis gravida tincidunt sit amet non turpis. Morbi fermentum convallis nunc, in facilisis odio ultrices ut. In id ex sodales, pellentesque ex porttitor, hendrerit nulla. Etiam gravida eget metus quis vairius. Phasellus pellentesque quis augue tempus hendrerit. Curabitur rutrum imperdiet tincidunt. Ut ut sagittis metus. Phasellus faucibus elit ut sollicitudin hendrerit. In et magna eget nulla interdum interdum eget ut eros. Proin convallis facilisis nisi sed blandit. Morbi tempus magna ac odio efficitur, ut posuere lectus egestas. Nulla et neque id eros mattis ultricies.</p>"
+      },
+      {
+        "name": "Art Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/art/2.png",
+          "/images/art/3.png",
+          "/images/art/4.png",
+          "/images/art/1.png"
+        ]
+      },
+      {
+        "name": "Art Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/art/3.png",
+          "/images/art/4.png",
+          "/images/art/1.png",
+          "/images/art/2.png"
+        ]
+      },
+      {
+        "name": "Art Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/art/4.png",
+          "/images/art/1.png",
+          "/images/art/2.png",
+          "/images/art/3.png"
+        ]
+      },
+      {
+        "name": "Art Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/art/4.png",
+          "/images/art/1.png",
+          "/images/art/2.png",
+          "/images/art/3.png"
+        ]
+      },
+      {
+        "name": "Art Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/art/3.png",
+          "/images/art/4.png",
+          "/images/art/1.png",
+          "/images/art/2.png"
+        ]
+      },
+      {
+        "name": "Art Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/art/2.png",
+          "/images/art/3.png",
+          "/images/art/4.png",
+          "/images/art/1.png"
+        ]
+      },
+      {
+        "name": "Art Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/art/1.png",
+          "/images/art/2.png",
+          "/images/art/3.png",
+          "/images/art/4.png"
+        ]
+      },
+      {
+        "name": "Art Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/art/2.png",
+          "/images/art/3.png",
+          "/images/art/4.png",
+          "/images/art/1.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Automobiles",
+    "image": "2.png",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+    "items": []
+  },
+  {
+    "name": "Culture",
+    "image": "3.png",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+    "items": []
+  },
+  {
+    "name": "Energy",
+    "image": "4.png",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+    "items": []
+  },
+  {
+    "name": "Equestrian",
+    "image": "5.png",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+    "items": [
+      {
+        "name": "Equestrian Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/equestrian/1.png",
+          "/images/equestrian/2.png",
+          "/images/equestrian/3.png",
+          "/images/equestrian/4.png",
+          "/images/equestrian/5.png",
+          "/images/equestrian/6.png"
+        ]
+      },
+      {
+        "name": "Equestrian Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/equestrian/2.png",
+          "/images/equestrian/1.png",
+          "/images/equestrian/3.png",
+          "/images/equestrian/4.png",
+          "/images/equestrian/5.png",
+          "/images/equestrian/6.png"
+        ]
+      },
+      {
+        "name": "Equestrian Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/equestrian/3.png",
+          "/images/equestrian/1.png",
+          "/images/equestrian/2.png",
+          "/images/equestrian/4.png",
+          "/images/equestrian/5.png",
+          "/images/equestrian/6.png"
+        ]
+      },
+      {
+        "name": "Equestrian Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/equestrian/4.png",
+          "/images/equestrian/1.png",
+          "/images/equestrian/2.png",
+          "/images/equestrian/3.png",
+          "/images/equestrian/5.png",
+          "/images/equestrian/6.png"
+        ]
+      },
+      {
+        "name": "Equestrian Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/equestrian/5.png",
+          "/images/equestrian/1.png",
+          "/images/equestrian/2.png",
+          "/images/equestrian/3.png",
+          "/images/equestrian/4.png",
+          "/images/equestrian/6.png"
+        ]
+      },
+      {
+        "name": "Equestrian Syndicate Name",
+        "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+        "images": [
+          "/images/equestrian/6.png",
+          "/images/equestrian/1.png",
+          "/images/equestrian/2.png",
+          "/images/equestrian/3.png",
+          "/images/equestrian/4.png",
+          "/images/equestrian/5.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Executives",
+    "image": "6.png",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+    "items": []
+  },
+  {
+    "name": "Jewelry",
+    "image": "7.png",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+    "items": []
+  },
+  {
+    "name": "Real Estate",
+    "image": "8.png",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+    "items": []
+  },
+  {
+    "name": "Watches",
+    "image": "9.png",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+    "items": []
+  },
+  {
+    "name": "Yachts",
+    "image": "10.png",
+    "description": "Suspendisse rutrum efficitur velit et convallis. Curabitur a tellus congue.",
+    "items": []
+  }
+]

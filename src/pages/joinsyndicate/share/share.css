@@ -1,0 +1,45 @@
+.detail-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+.detail-box .title {
+    font-weight: 600;
+}
+
+.agree-content {
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.text-mark {
+    position: absolute;
+    top: -15px;
+    left: 55px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #a0a0a0;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    text-align: center;
+    transform: rotate(346deg);
+}
+
+.visa-card-input {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.visa-image {
+    position: absolute;
+    right: 5px;
+    width: 30px;
+    height: auto;
+    right: calc(50% + 10px);
+}

@@ -1,0 +1,41 @@
+.signin-container {
+    display: block;
+    max-width: 27.875rem;
+    margin: 0 auto;
+
+}
+
+.wallet-container {
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    background: hsla(0, 0%, 100%, .1);
+}
+
+.wallet-list {
+    grid-template-columns: 1.625rem auto;
+    display: grid;
+    padding: 1.5rem;
+    grid-column-gap: 1.5rem;
+    -moz-column-gap: 1.5rem;
+    column-gap: 1.5rem;
+    align-items: center;
+    cursor: pointer;
+    transition: .2s ease-in-out;
+    border-bottom: 1px solid #ccc;
+}
+
+.wallet-list:hover {
+    background: #ccc;
+}
+
+.wallet-list img {
+    width: 100%;
+}
+
+.wallet-text {
+    font-size: 1.2rem;
+    text-align: left;
+    line-height: 1;
+    margin: 0px;
+    font-weight: 550;
+}
