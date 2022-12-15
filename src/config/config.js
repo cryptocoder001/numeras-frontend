@@ -6,9 +6,7 @@ const BackendURI = "http://localhost:5000";
 
 const infuraId = "https://rinkeby.infura.io/v3/2995b018932448deba21b79c1dcc7587";
 
-const injected = new InjectedConnector({
-  supportedChainIds: [1, 3, 4, 5, 42,9559]
-});
+const injected = new InjectedConnector();
 
 const walletconnect = new WalletConnectConnector({
   infuraId: infuraId,
@@ -20,8 +18,7 @@ const walletconnect = new WalletConnectConnector({
 
 const walletlink = new WalletLinkConnector({
   url: infuraId,
-  appName: "numeras",
-  supportedChainIds: [1, 3, 4, 5, 42, 9559]
+  appName: "numeras"
 });
 
 

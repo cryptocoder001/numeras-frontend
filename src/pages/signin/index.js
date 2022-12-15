@@ -16,15 +16,18 @@ function Signin() {
         signature: "",
     });
 
-    useEffect(()=>{
-        if(active)
-        handleSign();
-    },[active])
+    // useEffect(()=>{
+    //     if(active)
+    //     handleSign();
+    // },[active])
 
 
     const handleConnect = async (type) => {
         try {
-            await connect(type);
+            if(!active)
+                await connect(type);
+            else
+                handleSign();
         }
         catch(err){
             logout();

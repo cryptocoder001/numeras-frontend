@@ -81,9 +81,6 @@ export default function Provider({ children }) {
         if (provider) activate(config[provider]);
       }, []);
 
-    useEffect(()=>{
-        switchNetwork();
-    },[active]);
 
 
 
@@ -131,6 +128,7 @@ export default function Provider({ children }) {
             activate(config.coinbaseWallet, undefined, true, (error) => console.log(error));
             setProvider("coinbaseWallet");
           }
+          await switchNetwork();
         } catch (err) {
           console.log('Connect wallet err', err);
         }
